@@ -185,6 +185,10 @@
 
 - [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus)
 - [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass)
+
+#### Progressive Web Application
+
+- [ScandiPWA Theme](https://github.com/scandipwa/base-theme)
 ---
 
 ### Blogs
